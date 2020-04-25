@@ -80,7 +80,6 @@ C:\Users\NgeruSK\Documents\Visual Studio 2019\EmployeeDemo\WebApi\bin\System.Web
 C:\Users\NgeruSK\Documents\Visual Studio 2019\EmployeeDemo\WebApi\bin\System.Web.WebPages.Razor.xml
 C:\Users\NgeruSK\Documents\Visual Studio 2019\EmployeeDemo\WebApi\bin\Antlr3.Runtime.pdb
 C:\Users\NgeruSK\Documents\Visual Studio 2019\EmployeeDemo\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\NgeruSK\Documents\Visual Studio 2019\EmployeeDemo\WebApi\obj\Debug\WebApi.csprojAssemblyReference.cache
 C:\Users\NgeruSK\Documents\Visual Studio 2019\EmployeeDemo\WebApi\obj\Debug\WebApi.csproj.CopyComplete
 C:\Users\NgeruSK\Documents\Visual Studio 2019\EmployeeDemo\WebApi\obj\Debug\WebApi.dll
 C:\Users\NgeruSK\Documents\Visual Studio 2019\EmployeeDemo\WebApi\obj\Debug\WebApi.pdb

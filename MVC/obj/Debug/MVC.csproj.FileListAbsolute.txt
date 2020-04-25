@@ -72,7 +72,6 @@ C:\Users\NgeruSK\Documents\Visual Studio 2019\EmployeeDemo\MVC\bin\System.Web.We
 C:\Users\NgeruSK\Documents\Visual Studio 2019\EmployeeDemo\MVC\bin\Newtonsoft.Json.xml
 C:\Users\NgeruSK\Documents\Visual Studio 2019\EmployeeDemo\MVC\bin\Antlr3.Runtime.pdb
 C:\Users\NgeruSK\Documents\Visual Studio 2019\EmployeeDemo\MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\NgeruSK\Documents\Visual Studio 2019\EmployeeDemo\MVC\obj\Debug\MVC.csprojAssemblyReference.cache
 C:\Users\NgeruSK\Documents\Visual Studio 2019\EmployeeDemo\MVC\obj\Debug\MVC.csproj.CopyComplete
 C:\Users\NgeruSK\Documents\Visual Studio 2019\EmployeeDemo\MVC\obj\Debug\MVC.dll
 C:\Users\NgeruSK\Documents\Visual Studio 2019\EmployeeDemo\MVC\obj\Debug\MVC.pdb
